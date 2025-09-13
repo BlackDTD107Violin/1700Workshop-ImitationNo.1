@@ -1,0 +1,192 @@
+,Name_zh-TW,Name_en,Name_ja,Content_zh-TW,Content_en,Content_ja
+EXTRACT,,,,,,
+E1001,隕石,Meteorite,隕石,沉重且帶有火紅色紋路的石頭，估計是真正的隕石，不知道從何而來，又或是用多少錢購得的？,"A heavy stone with crimson patterns, likely a real meteorite. Its origin is unknown, nor is it clear how much it was purchased for.",重くて赤い模様の入った石、おそらく本物の隕石だろう。どこから来たのか、いくらで購入されたのかは不明だ。
+E1002,酒瓶,Wine Bottle,不明な酒瓶,可飲用的酒，似乎烈性極強，隔著軟木塞都能聞到味道，如果室內著火，這瓶酒大概會成為最強的催化劑吧,"A drinkable liquor that seems incredibly strong, as its scent can be smelled through the cork. If a fire breaks out indoors, this bottle might become the most powerful catalyst.",飲める酒であり、非常に強い酒らしく、コルク越しに香りが感じられる。もし室内で火事が起きれば、この酒は最強の触媒になるかもしれない。
+E1003,木炭,Charcoal,木炭,常見的燃料，對於助燃相當有幫助,"Common fuel, quite helpful in aiding combustion.",一般的な燃料で、燃焼を助けるのに非常に役立つ。
+E1004,金幣,Coin,金貨,經數度冶煉而成的金幣，中央刻意鑄造成太陽圖騰，雖做工精細卻無法用於日常交易,"A coin refined multiple times, with a deliberately crafted sun totem in the center. Despite its fine craftsmanship, it cannot be used in daily transactions.",何度も精錬されたコインで、中央に太陽のトーテムが意図的に刻まれている。精巧に作られているが、日常の取引には使えない。
+KEY,,,,,,
+K0001,記憶鑰匙,Memory Key,記憶の鍵,開啟通往煉金術士的記憶之門的鑰匙,A key that unlocks the door to the memories of the alchemist.,錬金術師の記憶の扉を開く鍵。
+K1001,燭台,Candlestick,燭台,可以手持的燭台，方便照明或點燃其他蠟燭,"A handheld candlestick, convenient for lighting or igniting other candles.",手持ち可能な燭台で、照明や他のろうそくに火をつけるのに便利。
+K1002,灼石,Scorched Stone,焼けた石,外表如燒灼般的奇異石頭，雖溫度極高但勉強可以手持,"An unusual stone with a scorched appearance, extremely hot but barely manageable to hold.",表面が焼けたような奇妙な石で、非常に高温だが、なんとか手で持てる。
+K1003,未知的鑰匙,Unknown Key,未知の鍵,從大小判斷，比起開門，更像是開啟某個盒子鎖孔的鑰匙,"Judging by its size, it seems more like a key for opening a box than for unlocking a door.",大きさから判断すると、扉を開けるというより、何かの箱の鍵穴に使う鍵のようだ。
+K1004,顯影鏡片,Revealing Lens,現像レンズ,神秘的鏡片，中央似乎透露出某些複雜的軌跡,A mysterious lens with what appears to be intricate patterns faintly visible at its center,神秘的なレンズで、中央には複雑な軌跡のようなものがかすかに浮かび上がっている
+K1005,金條,Gold Bar,金塊,從重量上判斷，應該是真的金塊......,"Judging by its weight, it seems to be a real gold ingot...",重さから判断すると、本物の金塊のようだ……。
+K1006,安剖瓶,Sealed Vial,密封瓶,透明的容器，似乎裝著神祕的暗紅色液體,A transparent container that appears to hold a mysterious dark red liquid.,透明な容器で、神秘的な暗赤色の液体が入っているようだ
+OTHER,,,,,,
+O1001,可疑的書,Suspicious Book,疑わしい本,造型奇特的書，但重量卻與其厚度不相稱，表面還有翠綠的流動物質,"A book with a peculiar design, yet its weight does not match its thickness, and there is a flowing green substance on its surface.",奇妙な形の本だが、その重さは厚さと釣り合っておらず、表面には緑色の流れる物質がある。
+READ,,,,,,
+R0001,任務紙條,Mission Note,任務のメモ,"對象：不需知情
+//
+事蹟：擁有大量的金製物品卻低調埋首研究，推測其所追求的事物可能超越黃金的價值
+//
+任務：潛入煉金術士的記憶，解開其秘密並將研究成果回報","Target: No need to notify
+//
+Background: Owned many gold items but stayed quiet and focused on research. It’s believed they were after something more valuable than gold.
+//
+Mission: Enter the alchemist’s memories, uncover their secrets, and report the results.","対象：知らせる必要なし
+//
+経歴：多くの金製品を所有していたにもかかわらず、表に出ることなく研究に没頭していた。その探求の対象は、黄金をも超える価値を持つものだと推測されている。
+//
+任務：錬金術師の記憶領域に潜入し、その秘密を解明して研究成果を報告せよ。"
+R1001,隕石墜落新聞,Meteorite Fall News,隕石落下ニュース,"""如果有名為火焰的神明，祂的真身應該就是那個模樣。""
+西元1825年4月3日，一顆隕石墜落在米薩他利洲的法爾歐里基地區森林，造成三千萬棵樹木焚毀，所幸隕石墜落時已在空中爆炸，只餘下碎塊墜落地面，且森林人煙稀少，無人受傷。但森林大火持續燃燒三天，造成三分之二的森林面積就此化為荒土。隕石的來歷不明，在撲滅火勢的當天夜裡由無法解釋物質收容收藏館 米薩他利保管。
+
+無法解釋物質收容收藏館 米薩他利的榮譽學者兼贊助者--庫洛姆拉薩基先生，表示將率領收藏館麾下的煉金術士，投入隕石物質的研究。庫洛姆拉薩基先生認為，這塊天外降臨的不速之客將成為延續煉金術士學術界的嶄新火種，照亮一條前人未曾踏足的道路。
+""這將是我們翹首期盼的火種。""","”If there were a deity of flames, 
+their true form would surely look just like that.”
+On April 3, 1825, a meteor fell in the forests of the Farroriki base 
+area on the continent of Misatari, igniting a blaze that destroyed 
+thirty million trees.Fortunately, the meteor exploded mid-air, 
+leaving only fragments to hit the ground. As the forest was 
+sparsely populated, there were no injuries. However, the fire 
+continued for three days, reducing two-thirds of the forest to 
+desolate ash. The meteor’s origin remains unknown, and on 
+the night the fire was extinguished, it was taken into custody 
+by the Misatari Repository of Unexplainable Objects.
+
+The esteemed scholar and benefactor of the Misatari Repository 
+of Unexplainable Objects, Mr. Kuromu Rasaki, has announced 
+that he will lead the institute’s alchemists in researching the 
+material of the fallen meteorite. Mr. Kuromu Rasaki believes 
+that this uninvited visitor from beyond will become a fresh 
+spark to advance alchemical studies, illuminating a path never 
+before explored.
+”This will be the flame we have long awaited.”","「もし“炎”という名の神がいるとすれば、その真の姿はまさにこのようなものだろう。」
+
+西暦1825年4月3日、ミササタリ州ファルオリ基地エリアの森に隕石が落下し、3千万本の樹木が焼失しました。幸いにも隕石は空中で爆発し、破片のみが地面に落ち、人がほとんどいない森のため、負傷者はいませんでした。しかし、森の火災は3日間燃え続け、森林面積の3分の2が荒れ地と化しました。隕石の由来は不明であり、火災が鎮火したその夜、説明不可能物質収容コレクション館ミササタリによって保管されました。
+
+説明不可能物質収容コレクション館ミササタリの名誉学者でありスポンサーでもあるクロムラサキ氏は、コレクション館に属する錬金術師たちを率いて隕石物質の研究に着手すると発表しました。クロムラサキ氏は、この天から舞い降りた“招かれざる客”が、錬金術の学術界に新たな火種をもたらし、かつて誰も歩んだことのない道を照らすだろうと述べました。
+
+「これは私たちが長く待ち望んでいた火種となるでしょう。」"
+R1002,真陽酒,Truesun Wine,真陽ワイン,"產地：冰陽山丘
+外型：透明但帶有炫彩光澤
+結果：無煙無灰，穩定循環","Origins: Ice Sun Hill.
+Appearance: Transparent but with colorful luster.
+Result: Smoke-free and ash-free, stable circulation.","産地：氷陽の丘
+外観：透明だが、煌びやかな光沢を持つ
+結果：煙も灰も出さず、安定した循環を保つ"
+R1003,蒸氣火車傳單,Steam Train Flyer,蒸気機関車のチラシ,"「沃姆煤炭——你最好的夥伴」
+似乎是當代最具聲譽的採煤企業，估計是掌握著豐饒的煤田吧
+傳單宣傳著沃姆煤炭已成為蒸汽火車引擎的動力來源，相信其煤炭的純度一定極高，如果用來做為居家火爐或冶金燃料，想必也能提供穩定且高效的熱能吧","""Worm's Coal – Your Best Partner""
+Worm's Coal is reputed to be one of the most prestigious coal mining enterprises today, likely due to its control over bountiful coalfields. The flyer proclaims that Worm's Coal has become the primary fuel for steam locomotive engines. Its coal must possess exceptional purity, making it ideal for providing steady and efficient heat for domestic hearths or metallurgical fuel needs.","「ワーム炭鉱 － あなたの最高のパートナー」
+ワーム炭鉱は、現在最も名高い採炭企業の一つとされ、豊かな炭田を掌握していると推測されます。宣伝文では、ワーム炭鉱の石炭が蒸気機関車のエンジンの動力源になっていると紹介されています。その石炭は非常に高純度であることが想像され、家庭用暖炉や冶金用燃料としても安定した効率的な熱を提供できるでしょう。"
+R1004,鍊金公式圖,Alchemy Formula Diagram,錬金術公式図,"太陽符號（☉）乃煉金術中光明與純粹的象徵，亦為黃金與靈魂之聯結的核心。將其作為基底紋路，可賦予物質以「恆久不變」的特質。
+//
+煉金黃金：純度須達99.9%，透過七階鍊制法獲得。
+//
+星星矩陣：確保十六顆星星圍繞太陽，這個數字有金錢與正向的含意，能加強金幣的象徵性。","The sun symbol (☉) represents light and purity in alchemy and serves as a core connection between gold and the soul. Using it as the foundational glyph grants materials the property of “eternal stability.”
+//
+Alchemical Gold: Purity must reach 99.9%, obtained through a seven-stage refinement process.
+//
+Star Matrix: Ensure sixteen stars encircle the sun; this number symbolizes wealth and positivity, enhancing the coin's symbolic significance.","太陽のシンボル（☉）は、錬金術において光明と純粋さの象徴であり、黄金と魂を結びつける中心的な存在です。これを基盤の紋様として用いることで、物質に「永続的な不変」の特質を与えることができます。
+//
+錬金黄金：純度は99.9%以上である必要があり、七段階の錬成法を通じて生成されます。
+//
+星のマトリックス：十六個の星が太陽を囲むことを確保してください。この数字は金銭やポジティブな意味を持ち、金貨の象徴性を強化する力があります。"
+R1005,銀月蜜酒,Silvemoon Mead,銀月ミード,"產地：銀月森林
+外型：蜂蜜般色澤
+結果：穩定，但熱能不足","Origins: Silver Moon Forest.
+Appearance: Honey-like color.
+Result: Stable, but lacks sufficient thermal energy.","産地：銀月の森
+外観：蜂蜜のような色合い
+結果：安定しているが、熱エネルギーが不足している"
+R1006,雷光啤酒,Thunderlight Beer,雷光ビール,"產地：雷光山脈
+外型：淡黃色
+結果：火焰間歇性中斷","Origins: Thunder Light Mountain.
+Appearance: Light yellow.
+Result: The flame goes out repeatedly.","産地：雷光山脈
+外観：淡黄色
+結果：炎が断続的に消える"
+R1007,晨星烈酒,Morningstar Spirits,晨星スピリッツ,"產地：晨星山谷
+外型：透明無色
+結果：藍色火焰轉瞬即逝","Origins: Morning Star Valley.
+Appearance: Transparent and colorless.
+Result: Blue flame fleeting.","産地：晨星の谷
+外観：透明無色
+結果：青い炎は刹那に消える"
+R1008,赤焰葡萄酒,Redflame Wine,赤焰ワイン,"產地：赤焰高原
+外型：赤紅如血
+結果：燃燒後劇烈爆炸","Origins: Red Flame Highland.
+Appearance: As red as blood.
+Result: Violent explosion upon ignition.","産地：赤焰高原
+外観：血のように赤い
+結果：燃えた後、激しく爆発する"
+R1009,計算器提示,Calculator Hint,計算機のヒント,"- 水星符號被翡流金驅動,能產生移形換位的力量
+
+- 金星昭示著日月輪轉，與翡流金的結合強化了這一點
+
+- 我總認為木星象徵著環繞中心的複製與擴張，結果也不出所料
+
+- 誰也沒想到土星環中有環的意象，竟是是縮放自如的密碼","- When stirred by Verdant Aurum, the mark of Mercury unveileth the power of transposition.
+
+- Venus heralds the turning of sun and moon, and through Verdant Aurum, that turning is made evermore.
+
+- I have long believed Jupiter to embody replication and expansion around a central force — and the results were as expected.
+
+- The secret of Saturn’s halo, a ring within rings, proved to be a cipher for endless scale.","- 水星のシンボルは ヴァーダント・オーラム（Verdant Aurum）によって駆動され、物体の位置を入れ替える力を生み出す。
+
+- 金星は日と月の巡りを象徴しており、ヴァーダント・オーラムとの結合によりその力がさらに強化された。
+
+- 私は常に、木星は中心を囲む複製と拡張を象徴していると考えていたが、やはりその通りだった。
+
+- 誰も予想していなかったが、土星の輪には「輪」という概念そのものが隠されており、それは自在にスケーリングできるコードだったのだ。"
+R1010,鎔鑄器提示,Fusion Hint,鋳造器のヒント,"I.III. 拉
+II. 放入驅動用的玻片
+IV. 放入鎔鑄物所需材料
+V.壓
+VI.拿取
+
+透過絳塑造的眼睛，能看透事物真正的形體","I.III. Pull
+II. Insert the casting-drive slide.
+IV. Insert the materials required for casting.
+V. Push
+VI. Take
+
+Through the eye shaped in Rubrith, one may perceive the true form of all things.","I.III. 引く
+II. 鋳造を駆動するスライドを挿入する。
+IV. 鋳造に必要な素材を投入する。
+V. 押す
+VI. 取り出す
+
+ルブリスによって形作られた眼を通して、万物の真の姿を見通すことができる。"
+R1011,提取器提示,Extractor Hint,抽出装置のヒント,"I. 點火
+II. 放入欲提取物品
+III. 壓下拉桿
+IV. 拿取玻片","I. Ingnite
+II. Place the object to be extracted
+III. Push down the lever
+IV. Retrieve the slide","I. 点火
+II. 抽出対象の物体を置く
+III. レバーを押し下げる
+IV. スライドを取り出す"
+R1012,驗證器提示,Certify Hint,認証ヒント,"我盼望著永不熄滅的火焰成為旁觀者，照看著歷史與未來
+
+插入最終玻片，然後壓下拉桿
+我們會找到引領前方的路","Let the undying fire stand as witness — to time bygone, and time unborn.
+
+Insert the final slide and push.
+We will find the path that lead us forward.","滅びぬ炎が傍らに在り、歴史と未来を見届けんことを、我は願う。
+
+最後のスライドを挿入し、レバーを押し下げる。
+我ら、進むべき道を見出さん。"
+R1013,計算器提示- 合成,Calculator Hint- Combine,計算機のヒント- 合成,"I. 拉
+II. 在兩個抽屜都放入合成用的玻片
+III. 壓下拉桿
+IV. 拿取
+
+放入絳製成的鏡片也許會有幫助","I. Pull
+II. Place the slides in two drawers.
+III. Pull up the lever
+IV. Take
+
+Placing the Rubrith lens might prove helpful.","I. 引く
+II. スライドを2つの引き出しに入れます。
+III. レバーを引き上げる
+IV. 取り出す
+
+ルブリスのレンズを設置すれば、役に立つかもしれない"
+GLASS,,,,,,
+G_Base,玻片,Glass Slide,ガラスのスライド,記錄著軌跡的玻片，軌跡的流動僅憑肉眼即可見,"A glass plate recording a trajectory, the flow of which is visible to the naked eye.",軌跡を記録したガラス片で、その流れは肉眼で確認できる。
+G_Unite1,稍加點綴的玻片,Decorated Glass Slide,少し装飾されたガラスのスライド,稍微華麗的玻片，頂部有一顆紋路流動的綠寶石，但是好像有些脆弱,"A slightly ornate glass plate, with a single flowing-patterned green gem on top, though it seems somewhat fragile.",少し華やかなガラス片で、頂部には1つの流動する模様を持つ緑の宝石があるが、やや脆そうだ。
+G_Unite2,稍加點綴的玻片,Decorated Glass Slide,少し装飾されたガラスのスライド,更加華麗的玻片，頂部有兩顆紋路流動的綠寶石，似乎已很脆弱,"A more ornate glass plate, with two flowing-patterned green gems on top, which seem quite fragile.",より華やかなガラス片で、頂部には2つの流動する模様の緑の宝石があり、非常に脆そうだ。
+G_Unite3,稍加點綴的玻片,Decorated Glass Slide,少し装飾されたガラスのスライド,最為華麗的玻片，頂部有三顆紋路流動的綠寶石，應該難以再承受下一次的合成,"The most ornate glass plate, with three flowing-patterned green gems on top. It likely cannot withstand another synthesis.",最も華やかなガラス片で、頂部には3つの流動する模様の緑の宝石があり、次の合成には耐えられないだろう。

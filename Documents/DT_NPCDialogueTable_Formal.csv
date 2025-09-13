@@ -1,0 +1,18 @@
+,SerialNumber,EndofPart,ShowTutor,Name,Content_zh-TW,Content_en,Content_ja
+110101,1,TRUE,-1,,這本書真是特別......,This book is really special......,この本は本当に特別だ……
+120101,2,FALSE,-1,,不對，這居然是圖鑑，這形狀是用來存放玻片嗎？,"Wait, this is actually an encyclopedia, is this shape meant to store glass slides?",いや、これは図鑑だ。この形はスライドを収納するためのものか？
+120102,3,TRUE,10,,感覺是很重要的東西，隨身攜帶著吧，反正最終也不會帶離記憶，應該不會有問題,"It feels like something important. Better carry it with me. Since it won't leave the memory in the end, there shouldn't be a problem.",重要なもののように感じる。持ち歩こう。どうせ記憶の外には持ち出せないから、問題はないだろう。
+120103,4,TRUE,-1,,最好找到方便收納的容器才能妥善收納這些玻片,It’s best to find a suitable container to properly store these glass slides.,これらのスライドをきちんと収納するために、便利な容器を見つけたほうがいい。
+800001,5,TRUE,-1,,圖鑑已經無法容納這個造型的玻片了，得捨棄一些才能再存入......,The encyclopedia can no longer hold glass slides of this shape; I’ll have to discard some to store more......,図鑑はもうこの形のスライドを収めることができない。いくつか捨てなければならない……
+800002,6,TRUE,-1,,疊加後的玻片已經不兼容這個凹槽了,The stacked glass slides are no longer compatible with this slot.,重ねた後のスライドは、この溝に合わなくなっている。
+800003,7,TRUE,-1,,似乎不是這樣使用的......,It doesn’t seem to be used this way...,どうやらこういう使い方ではないようだ……
+800004,8,TRUE,-1,,繼續強行合成恐怕玻片會損毀，只能嘗試其他玻片了,Forcing the synthesis further might damage the glass slide. I'll have to try another one.,強引に合成を続けると、スライドが壊れるかもしれない。他のスライドを試すしかない。
+800005,9,TRUE,-1,,玻片已經沒有再提取的必要了,There’s no need to extract the glass slide anymore.,スライドをもう取り出す必要はない。
+800006,10,FALSE,-1,,"火焰與觸媒以等量相繫，置於核心並賦予其維持之燃料
+觸媒之母育有四子，而燃料南北端不可侵入四子領地","Let flame and catalyst be bound in equal measure placed at the heart, and granted its sustaining fuel. The mother of catalysts beareth four offspring; yet the fuel's northern and southern tips shall not trespass upon their sacred dominion.","火と触媒は等量で結び、核心に置き、その維持のための燃料を与える。
+触媒の母は四人の子を産む；しかし燃料の北端と南端は、彼らの神聖な領域に侵入してはならない。"
+800007,11,TRUE,-1,,"太陽凝聚成平常一半大小，於觸媒之母的邊境，其邊緣觸及燃料銳利的尖端
+其中三尖隱覆於火焰之下，而另三尖則裸露無掩，昭然於凡人目光","The sun, considered to half its common form, stands sentinel at the borders of the mother's realm, where its edge meets the sharpened point of the fuel. Three of the points are veiled in flame, while three remain uncovered, laid bare to mortal sight.","太陽は通常の半分の大きさに見做され、触媒の母の領域の境界に立ち、その縁が燃料の鋭い先端に触れる。
+三つの先端は炎に覆われ、残りの三つはむき出しとなり、凡人の目に晒されている。"
+800008,12,TRUE,-1,,,,
+800009,13,TRUE,-1,,,,

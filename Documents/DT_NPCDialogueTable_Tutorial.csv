@@ -1,0 +1,17 @@
+,SerialNumber,EndofPart,UnlockStep,ShowTutor,Name,Content_zh-TW,Content_en,Content_ja
+0,0,FALSE,1,0,？？？,很高興你醒了，意識是否清晰？自己辨識一下視聽覺是否正常,I'm glad you're awake. Is your consciousness clear? Check if your senses are functioning normally.,あなたが目を覚ましたことを嬉しく思います。意識ははっきりしていますか？感覚が正常に機能しているか確認してください。
+1,1,FALSE,,-1,？？？,你現在身處於一名煉金術士的記憶空間，這裡的時間流速跟現實世界不同，因此不知道你確切究竟昏迷了多長時間,"You are currently in the memory space of an alchemist. The flow of time here is different from the real world, so it's uncertain how long you've been unconscious.",現在、あなたは錬金術師の記憶空間にいます。ここでは時間の流れが現実世界とは異なるため、あなたがどれくらいの間意識を失っていたのかは不明です。
+2,2,TRUE,2,1,？？？,首先，先確認肉體機能是否正常，再往前行走,"First, confirm that your physical functions are normal, then proceed forward.",まず、身体機能が正常であることを確認し、その後前進してください。
+3,3,TRUE,3,2,？？？,很好，看來正常行走沒有大礙，現在試試看能否蹲下以通過模擬出來的障礙物吧,"Great, it seems you can walk normally without issue. Now, let's see if you can crouch to pass through the simulated obstacle.",よかった、普通に歩けるようですね。では、シミュレーションされた障害物を通るためにしゃがむことができるか見てみましょう。
+4,4,TRUE,4,3,？？？,蹲下與起身也沒有異常……下一個測試地點在通道的盡頭，試著跑動看看,Crouching and standing up also seem fine... The next test location is at the end of the corridor. Try running there.,しゃがむことと立ち上がることも問題なさそうです……次のテスト地点は廊下の終わりです。そこまで走ってみてください。
+5,5,FALSE,,-1,？？？,你已經順利抵達了第二個測試地點,You have successfully reached the second test location.,あなたは無事に第二のテスト地点に到達しました。
+6,6,FALSE,,-1,？？？,不過你真是幸運，除了你以外的人都在記憶下潛的過程中死亡,But you are really lucky; everyone else died during the process of diving into the memory.,しかし、あなたは本当に運が良いです。他の人たちは記憶に潜る過程で死んでしまいました。
+7,7,FALSE,,-1,？？？,但是從你剛剛一個口令一個動作的行為看來，這場記憶下潛應該還是有副作用，讓你遺失了部分記憶,"However, based on your recent actions, it seems that this memory dive has side effects, causing you to lose some memories.",ただし、あなたの最近の行動を見る限り、この記憶の潜入には副作用があり、いくつかの記憶を失ってしまったようです。
+8,8,TRUE,5,-1,？？？,但這並不是問題，你先過去桌子那邊吧，那邊有組織準備的重要物品,But that’s not a problem. Please go over to the table; there are important items prepared by the organization.,しかし、それは問題ではありません。テーブルの方へ行ってください。そこには組織が準備した重要なアイテムがあります。
+9,9,FALSE,,-1,？？？,箱子裡裝著你需要的東西，但是先請你閱讀文件，內容為任務指示與煉金術士的資料,"The box contains what you need, but please read the documents first; they contain mission instructions and information about the alchemist.",箱の中にはあなたに必要なものが入っていますが、まず書類を読んでください。それには任務の指示と錬金術師に関する情報が含まれています。
+10,10,TRUE,6,4,？？？,文件以外的資訊你不必知道，只需要專心執行任務即可,You don’t need to know anything beyond the documents; just focus on executing the mission.,書類以外の情報を知る必要はありません。任務の実行に集中してください。
+11,11,FALSE,,-1,？？？,現在可以打開箱子了,You can open the box now.,今、箱を開けることができます。
+12,12,TRUE,7,6,？？？,箱子的機關細微，建議你進一步查看,The mechanism of the box is delicate; it's recommended that you inspect it further.,箱の機構は繊細なので、さらに詳しく調べることをお勧めします。
+13,13,FALSE,,-1,？？？,組織沒有對箱子上鎖，正常開啟即可,The organization has not locked the box; you can open it normally.,組織は箱に鍵をかけていませんので、通常通りに開けることができます。
+14,14,TRUE,8,7,？？？,但要是煉金術士的房間有任何機關且短時間無法解決的話，建議還是先調查房間尋找線索,"However, if there are any mechanisms in the alchemist's room that cannot be resolved quickly, it's advised to investigate the room for clues first.",ただし、錬金術師の部屋に迅速に解決できない機構がある場合は、まず部屋を調査して手がかりを探すことをお勧めします。
+15,15,TRUE,9,8,？？？,如果你準備就緒的話，就使用這把鑰匙開啟記憶之門吧，祝你好運,"If you're ready, use this key to open the door to the memory. Good luck!",準備ができたら、この鍵を使って記憶の扉を開けてください。幸運を祈ります！
