@@ -12,6 +12,8 @@ K1003,未知的鑰匙,Unknown Key,未知の鍵,從大小判斷，比起開門，
 K1004,顯影鏡片,Revealing Lens,現像レンズ,神秘的鏡片，中央似乎透露出某些複雜的軌跡,A mysterious lens with what appears to be intricate patterns faintly visible at its center,神秘的なレンズで、中央には複雑な軌跡のようなものがかすかに浮かび上がっている
 K1005,金條,Gold Bar,金塊,從重量上判斷，應該是真的金塊......,"Judging by its weight, it seems to be a real gold ingot...",重さから判断すると、本物の金塊のようだ……。
 K1006,安剖瓶,Sealed Vial,密封瓶,透明的容器，似乎裝著神祕的暗紅色液體,A transparent container that appears to hold a mysterious dark red liquid.,透明な容器で、神秘的な暗赤色の液体が入っているようだ
+K1007,未知的鑰匙(教學),Unknown Key(Tutor),未知の鍵(Tutor),從大小判斷，比起開門，更像是開啟某個盒子鎖孔的鑰匙,"Judging by its size, it seems more like a key for opening a box than for unlocking a door.",大きさから判断すると、扉を開けるというより、何かの箱の鍵穴に使う鍵のようだ。
+K1008,翡流金,Verdant Aurum,ヴァーダント・オーラム,K1008中文內容,K1008_Content_EN,K1008_Content_JP
 OTHER,,,,,,
 O1001,可疑的書,Suspicious Book,疑わしい本,造型奇特的書，但重量卻與其厚度不相稱，表面還有翠綠的流動物質,"A book with a peculiar design, yet its weight does not match its thickness, and there is a flowing green substance on its surface.",奇妙な形の本だが、その重さは厚さと釣り合っておらず、表面には緑色の流れる物質がある。
 READ,,,,,,
@@ -185,6 +187,44 @@ III. レバーを引き上げる
 IV. 取り出す
 
 ルブリスのレンズを設置すれば、役に立つかもしれない"
+R1014,任務紙條,Mission Note,任務のメモ,"對象：不需知情
+//
+事蹟：擁有大量的金製物品卻低調埋首研究，推測其所追求的事物可能超越黃金的價值
+//
+任務：潛入煉金術士的記憶，解開其秘密並將研究成果回報","Target: No need to notify
+//
+Background: Owned many gold items but stayed quiet and focused on research. It’s believed they were after something more valuable than gold.
+//
+Mission: Enter the alchemist’s memories, uncover their secrets, and report the results.","対象：知らせる必要なし
+//
+経歴：多くの金製品を所有していたにもかかわらず、表に出ることなく研究に没頭していた。その探求の対象は、黄金をも超える価値を持つものだと推測されている。
+//
+任務：錬金術師の記憶領域に潜入し、その秘密を解明して研究成果を報告せよ。"
+R1015,煉金術士檔案,R1015_EN,R1015_JP,R1015中文內容,R1015_Content_EN,R1015_Content_JP
+R1016,物質研究報告,R1016_EN,R1016_JP,R1016中文內容,R1016_Content_EN,R1016_Content_JP
+R1017,最終圖形提示,Final Pattern Hint,最終パターンのヒント,"火焰與觸媒以等價比例，座落於中央並賦予其燃料。
+觸媒之母育有四子，燃料南北端不可侵入四子領地。
+
+太陽凝聚成平常一半的大小，於觸媒之母的邊境，
+與燃料尖端交會處鎮守著。
+三個尖端被火焰覆蓋，三個尖端裸露在外。","Let flame and catalyst be bound in equal measure,
+placed at the heart, and granted its sustaining fuel.
+The Mother of Catalysts beareth four offspring;
+yet the fuel’s northern and southern tips shall 
+not trespass upon their sacred dominion.
+
+The Sun, condensed to half its common form,
+stands sentinel at the borders of the Mother’s realm,
+where its edge meets the sharpened point of the fuel.
+Three of the points are veiled in flame,
+while three remain uncovered, laid bare to mortal sight.","炎と触媒は等しき比で結び、その中心に座し、燃料を授けよ。
+触媒の母は四つの子を抱く。されど燃料の北と南の尖端、
+その四つの子の域を侵すべからず。
+
+太陽は常の半ばに縮められ、触媒の母の境界にて
+燃料の尖端と交わりし守護者とならん。
+三つの尖端は炎に包まれ、
+残りの三つは覆われず、裸のまま顕わる。"
 GLASS,,,,,,
 G_Base,玻片,Glass Slide,ガラスのスライド,記錄著軌跡的玻片，軌跡的流動僅憑肉眼即可見,"A glass plate recording a trajectory, the flow of which is visible to the naked eye.",軌跡を記録したガラス片で、その流れは肉眼で確認できる。
 G_Unite1,稍加點綴的玻片,Decorated Glass Slide,少し装飾されたガラスのスライド,稍微華麗的玻片，頂部有一顆紋路流動的綠寶石，但是好像有些脆弱,"A slightly ornate glass plate, with a single flowing-patterned green gem on top, though it seems somewhat fragile.",少し華やかなガラス片で、頂部には1つの流動する模様を持つ緑の宝石があるが、やや脆そうだ。
