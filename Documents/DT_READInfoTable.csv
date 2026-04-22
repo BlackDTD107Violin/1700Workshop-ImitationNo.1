@@ -1,16 +1,16 @@
-,READItemName,Chapter,READType
-R0001,任務紙條,1,Permanent
-R1001,隕石墜落新聞,1,StageLimited
-R1002,真陽酒,1,StageLimited
-R1003,蒸氣火車傳單,1,StageLimited
-R1004,鍊金公式圖,1,StageLimited
-R1005,銀月蜜酒,1,StageLimited
-R1006,雷光啤酒,1,StageLimited
-R1007,晨星烈酒,1,StageLimited
-R1008,赤焰葡萄酒,1,StageLimited
-R1009,計算器提示,1,Permanent
-R1010,鎔鑄器提示,1,StageLimited
-R1011,提取器提示,1,Permanent
-R1012,驗證器提示,1,Permanent
-R1013,計算器提示- 合成,1,Permanent
-R1014,最終圖形提示,1,StageLimited
+,READCode,READItemName,Chapter,DefaultUnlock
+1,R0001,任務紙條,1,FALSE
+2,R1001,隕石墜落新聞,1,FALSE
+3,R1002,真陽酒,1,FALSE
+4,R1003,蒸氣火車傳單,1,FALSE
+5,R1004,鍊金公式圖,1,FALSE
+6,R1005,銀月蜜酒,1,FALSE
+7,R1006,雷光啤酒,1,FALSE
+8,R1007,晨星烈酒,1,FALSE
+9,R1008,赤焰葡萄酒,1,FALSE
+10,R1009,計算器提示,1,TRUE
+11,R1010,鎔鑄器提示,1,FALSE
+12,R1011,提取器提示,1,TRUE
+13,R1012,驗證器提示,1,TRUE
+14,R1013,計算器提示- 合成,1,TRUE
+15,R1014,最終圖形提示,1,FALSE
