@@ -1,15 +1,19 @@
 ,Timer,Content_zh-TW,Content_en,Content_ja
 1,Auto,移動,Control,移動
-2,None,遊戲互動,Interactive,インタラクト
-3,Auto,道具檢視,Inspector,調べる
+2,Manual,遊戲互動,Interactive,インタラクト
+3,Auto,道具調查,Inspector,調べる
 4,None,退出/關閉,Exit / Close,閉じる / 終了
-5,None,任務指引,Quest,任務
-6,None,任務指引,Quest,任務
-7,None,使用道具,Use Item,アイテム使用
-8,None,任務指引,Quest,任務
+5,None,遊戲互動,Interactive,インタラクト
+6,Manual,任務指引,Quest,任務
+7,None,退出/關閉,Exit / Close,閉じる / 終了
+8,None,閱讀,Read,読む
 9,None,閱讀,Read,読む
-10,None,閱讀,Read,読む
-11,Manual,任務指引,Quest,任務
-12,None,道具蒐集,Collection,収集
-13,None,道具蒐集,Collection,収集
+10,Manual,任務指引,Quest,任務
+11,None,任務指引,Quest,任務
+12,None,使用道具,Use Item,アイテム使用
+13,Manual,任務指引,Quest,任務
 14,None,任務指引,Quest,任務
+15,Manual,任務指引,Quest,任務
+16,None,道具檢視,Examine Item,アイテム精査
+17,None,道具檢視,Examine Item,アイテム精査
+18,None,任務指引,Quest,任務
