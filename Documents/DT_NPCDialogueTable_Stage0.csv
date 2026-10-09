@@ -1,18 +1,18 @@
-,SerialNumber,EndofPart,Name,Content_zh-TW,Content_en,Content_ja
-0,0,FALSE,？？？,很高興你醒了，意識是否清晰？ 看得清周圍的環境嗎？,I see you are awake. Is your consciousness clear? Can you visually identify your surroundings?,目覚めたか。意識ははっきりしているか？ 周囲の状況は視認できるか？
-1,1,FALSE,？？？,你失去記憶被送到這裡並非偶然，為了確保這次「深潛」成功，組織已經清除了你所有的過去。,"Your arrival here with no memory is by no means an accident. To ensure the success of this ""Deep Dive,"" the Organization has purged every trace of your past.",君が記憶を失い、ここに運ばれたのは偶然ではない。今回の「深潛（ディープダイブ）」を成功させるため、組織は君の過去をすべて抹消した。
-2,2,FALSE,？？？,你現在只是一個純粹的容器，負責進入煉金術士庫洛姆拉薩基的記憶。,"Currently, you are a pure ""Vessel,"" tasked with infiltrating the memories of the alchemist, Kuromu Rasaki.",現在の君は純粋な「器」であり、錬金術師クロムラサキの記憶に潜入するための「依代」にすぎない。
-3,3,FALSE,？？？,他目前正處於深度昏迷，但他腦袋裡藏著超脫他生命維度上限的煉金秘術，也是你這次的終極目標。,"He is presently in a state of profound coma. However, hidden within his mind is an ultimate alchemical secret that transcends the limits of his life dimension. This is your final objective.",彼は現在、深い昏睡状態にある。だが、その脳内には生命の次元を超越した錬金術の秘術が隠されている。それが今回の究極の目標だ。
-4,4,FALSE,？？？,請務必遵守以下禁令，否則後果自負。,"You must strictly observe the following prohibitions, or face the consequences",以下の禁忌を必ず守れ。さもなくば、相応の報いを受けることになる。
-5,5,FALSE,？？？,其一，禁止回憶，一旦你開始回憶，你的意識層次與潛入意識層次將產生排斥導致腦死亡。,"First: Prohibition of Recall.
+,SerialNumber,EndofPart,TriggerSE,Name,Content_zh-TW,Content_en,Content_ja
+0,0,FALSE,Base,？？？,很高興你醒了，意識是否清晰？ 看得清周圍的環境嗎？,I see you are awake. Is your consciousness clear? Can you visually identify your surroundings?,目覚めたか。意識ははっきりしているか？ 周囲の状況は視認できるか？
+1,1,FALSE,Base,？？？,你失去記憶被送到這裡並非偶然，為了確保這次「深潛」成功，組織已經清除了你所有的過去。,"Your arrival here with no memory is by no means an accident. To ensure the success of this ""Deep Dive,"" the Organization has purged every trace of your past.",君が記憶を失い、ここに運ばれたのは偶然ではない。今回の「深潛（ディープダイブ）」を成功させるため、組織は君の過去をすべて抹消した。
+2,2,FALSE,Base,？？？,你現在只是一個純粹的容器，負責進入煉金術士庫洛姆拉薩基的記憶。,"Currently, you are a pure ""Vessel,"" tasked with infiltrating the memories of the alchemist, Kuromu Rasaki.",現在の君は純粋な「器」であり、錬金術師クロムラサキの記憶に潜入するための「依代」にすぎない。
+3,3,FALSE,Base,？？？,他目前正處於深度昏迷，但他腦袋裡藏著超脫他生命維度上限的煉金秘術，也是你這次的終極目標。,"He is presently in a state of profound coma. However, hidden within his mind is an ultimate alchemical secret that transcends the limits of his life dimension. This is your final objective.",彼は現在、深い昏睡状態にある。だが、その脳内には生命の次元を超越した錬金術の秘術が隠されている。それが今回の究極の目標だ。
+4,4,FALSE,Base,？？？,請務必遵守以下禁令，否則後果自負。,"You must strictly observe the following prohibitions, or face the consequences",以下の禁忌を必ず守れ。さもなくば、相応の報いを受けることになる。
+5,5,FALSE,Base,？？？,其一，禁止回憶，一旦你開始回憶，你的意識層次與潛入意識層次將產生排斥導致腦死亡。,"First: Prohibition of Recall.
 The moment you attempt to remember, your consciousness will conflict with the dive layer, resulting in immediate brain death.","其の一、回想の禁止。
 過去を思い出そうとすれば、君の意識と潜入先の意識が拒絶反応を起こし、脳死を招くことになる。"
-6,6,FALSE,？？？,其二，不許空手而歸，為了啟動這次深潛，組織已經耗盡了全力。在找到那項最終成果之前，你不被允許返回。,"Second: No Return Without Results.
+6,6,FALSE,Base,？？？,其二，不許空手而歸，為了啟動這次深潛，組織已經耗盡了全力。在找到那項最終成果之前，你不被允許返回。,"Second: No Return Without Results.
 The Organization has exhausted all resources to initiate this Deep Dive. You are not permitted to return until the final achievement has been secured.","其の二、手ぶらでの帰還は許されない。
 この計画を始動させるため、組織は全力を使い果たした。最終成果を手にするまで、帰還は許されない。"
-7,7,FALSE,？？？,其三，歸返機制，當你確認找到成果後，請在內心不斷、反覆地默念「析理之鴉」。你的意志會產生震動，組織感應到後會立刻將你回收。,"Third: Extraction Mechanism.
-Once the objective is confirmed, mentally recite the phrase ""The Crow of Logic"" repeatedly. Your volition will trigger a vibration; upon sensing this, the Organization will initiate your immediate recovery.","其の三、帰還の術。
+7,7,FALSE,Base,？？？,其三，歸返機制，當你確認找到成果後，請在內心不斷、反覆地默念「析理之鴉」。你的意志會產生震動，組織感應到後會立刻將你回收。,"Third: Extraction Mechanism.
+Once the objective is confirmed, mentally recite the phrase ""Ratio Corvus"" repeatedly. Your volition will trigger a vibration; upon sensing this, the Organization will initiate your immediate recovery.","其の三、帰還の術。
 成果を確認した後、心の中で絶え間なく、繰り返し「析理の鴉（せきりのからす）」と唱えろ。君の意志が振動を起こし、組織がそれを感知次第、直ちに回収する。"
-8,8,FALSE,？？？,當你在庫洛姆拉薩基的記憶列車中醒來，組織與你的聯繫便徹底中斷，不過我們仍無時無刻守在記憶的入口。,"The moment you awaken within Kuromu Rasaki's ""Memory Train,"" all communication with the Organization will be severed. Nonetheless, we remain at the gateway of memory at all times.",クロムラサキの「記憶の列車」で目覚めた瞬間、組織との接続は完全に断たれる。だが、我々は常に記憶の入口にて待機している。
-9,9,FALSE,？？？,記住，你的大腦是組織的財產，別讓它在裡面腐爛。,Remember: Your brain is the property of the Organization. Do not allow it to rot inside.,忘れるな、君の脳は組織の財産だ。あの中で朽ち果てさせることは許されない。
-10,10,TRUE,？？？,"深潛者MCXI, 祝你好運，我在真理的盡頭等你。","Diver MCXI, good luck. I await you at the end of Truth.",ダイバー MCXI、幸運を。真理の終着点にて待つ。
+8,8,FALSE,Base,？？？,當你在庫洛姆拉薩基的記憶列車中醒來，組織與你的聯繫便徹底中斷，不過我們仍無時無刻守在記憶的入口。,"The moment you awaken within Kuromu Rasaki's ""Memory Train,"" all communication with the Organization will be severed. Nonetheless, we remain at the gateway of memory at all times.",クロムラサキの「記憶の列車」で目覚めた瞬間、組織との接続は完全に断たれる。だが、我々は常に記憶の入口にて待機している。
+9,9,FALSE,Base,？？？,記住，你的大腦是組織的財產，別讓它在裡面腐爛。,Remember: Your brain is the property of the Organization. Do not allow it to rot inside.,忘れるな、君の脳は組織の財産だ。あの中で朽ち果てさせることは許されない。
+10,10,TRUE,Base,？？？,"深潛者MCXI, 祝你好運，我在真理的盡頭等你。","Diver MCXI, good luck. I await you at the end of Truth.",ダイバー MCXI、幸運を。真理の終着点にて待つ。
