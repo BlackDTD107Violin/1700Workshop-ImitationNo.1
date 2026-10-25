@@ -5,7 +5,10 @@ III. 壓下拉桿
 IV. 拿取玻片","I. Ingnite
 II. Place the object to be extracted
 III. Push down the lever
-IV. Retrieve the slide",R1011_Content_JP
+IV. Retrieve the slide","I. 点火
+II. 抽出対象の物体を置く
+III. レバーを押し下げる
+IV. スライドを取り出す"
 R1013,R1013,計算器提示- 合成,1,TRUE,1,Right,1,計算器提示- 合成紀錄,Calculator Hint- Combine Record,計算機のヒント- 合成,"I. 拉
 II. 在兩個抽屜都放入合成用的玻片
 III. 壓下拉桿
@@ -16,18 +19,26 @@ II. Place the slides in two drawers.
 III. Pull up the lever
 IV. Take
 
-Placing the Rubrith lens might prove helpful.",R1013_Content_JP
-S9003,S9003,計算器提示 - 位移,1,TRUE,2,Left,1,計算器提示紀錄 - 位移,Calculator Hint Record - Move,計算機のヒント - 移動,"水星符號被翡流金驅動,能產生移形換位的力量","When stirred by Verdant Aurum, the mark of Mercury unveileth the power of transposition.",S9003_Content_JP
-S9004,S9004,計算器提示 - 旋轉,1,TRUE,2,Left,2,計算器提示紀錄 - 旋轉,Calculator Hint Record - Rotate,計算機のヒント - 回転,金星昭示著日月輪轉，與翡流金的結合強化了這一點,"Venus heralds the turning of sun and moon, and through Verdant Aurum, that turning is made evermore.",S9004_Content_JP
-S9005,S9005,計算器提示 - 展開,1,TRUE,2,Right,1,計算器提示紀錄 - 展開,Calculator Hint Record - Expand,計算機のヒント - 展開,我總認為木星象徵著環繞中心的複製與擴張，結果也不出所料,I have long believed Jupiter to embody replication and expansion around a central force — and the results were as expected.,S9005_Content_JP
-S9006,S9006,計算器提示 - 縮放,1,TRUE,2,Right,2,計算器提示紀錄 - 縮放,Calculator Hint Record - Scale,計算機のヒント - 拡大／縮小,誰也沒想到土星環中有環的意象，竟是是縮放自如的密碼,"The secret of Saturn’s halo, a ring within rings, proved to be a cipher for endless scale.",S9006_Content_JP
+Placing the Rubrith lens might prove helpful.","I. 引く
+II. スライドを2つの引き出しに入れます。
+III. レバーを引き上げる
+IV. 取り出す
+
+ルブリスのレンズを設置すれば、役に立つかもしれない"
+S9003,S9003,計算器提示 - 位移,1,TRUE,2,Left,1,計算器提示紀錄 - 位移,Calculator Hint Record - Move,計算機のヒント - 移動,"水星符號被翡流金驅動,能產生移形換位的力量","When stirred by Verdant Aurum, the mark of Mercury unveileth the power of transposition.",水星のシンボルは ヴァーダント・オーラム（Verdant Aurum）によって駆動され、物体の位置を入れ替える力を生み出す。
+S9004,S9004,計算器提示 - 旋轉,1,TRUE,2,Left,2,計算器提示紀錄 - 旋轉,Calculator Hint Record - Rotate,計算機のヒント - 回転,金星昭示著日月輪轉，與翡流金的結合強化了這一點,"Venus heralds the turning of sun and moon, and through Verdant Aurum, that turning is made evermore.",金星は日と月の巡りを象徴しており、ヴァーダント・オーラムとの結合によりその力がさらに強化された。
+S9005,S9005,計算器提示 - 展開,1,TRUE,2,Right,1,計算器提示紀錄 - 展開,Calculator Hint Record - Expand,計算機のヒント - 展開,我總認為木星象徵著環繞中心的複製與擴張，結果也不出所料,I have long believed Jupiter to embody replication and expansion around a central force — and the results were as expected.,私は常に、木星は中心を囲む複製と拡張を象徴していると考えていたが、やはりその通りだった。
+S9006,S9006,計算器提示 - 縮放,1,TRUE,2,Right,2,計算器提示紀錄 - 縮放,Calculator Hint Record - Scale,計算機のヒント - 拡大／縮小,誰也沒想到土星環中有環的意象，竟是是縮放自如的密碼,"The secret of Saturn’s halo, a ring within rings, proved to be a cipher for endless scale.",誰も予想していなかったが、土星の輪には「輪」という概念そのものが隠されており、それは自在にスケーリングできるコードだったのだ。
 R1012,R1012,驗證器提示,1,TRUE,3,Left,1,驗證器提示紀錄,Certify Hint Record,認証ヒント,"我盼望著永不熄滅的火焰成為旁觀者，照看著歷史與未來
 
 插入最終玻片，然後壓下拉桿
 我們會找到引領前方的路","Let the undying fire stand as witness — to time bygone, and time unborn.
 
 Insert the final slide and push.
-We will find the path that lead us forward.",R1012_Content_JP
+We will find the path that lead us forward.","滅びぬ炎が傍らに在り、歴史と未来を見届けんことを、我は願う。
+
+最後のスライドを挿入し、レバーを押し下げる。
+我ら、進むべき道を見出さん。"
 R0001,R0001,煉金術士檔案,1,FALSE,3,Right,1,庫洛莫斯.洛薩基斯——紀錄報告,Kuromos Rosagis — Record Report,錬金術士のファイル,"姓名： 庫洛莫斯・洛薩基斯
 身份： 知名自然哲學與神祕學學者
 來源：《米薩他利日報》
@@ -54,7 +65,19 @@ Mr. Kuromus Raskius, who had been absent from public view for three months, was 
 
 October 21
 Mr. Kuromus Raskius's unexplained condition drew widespread attention from scholars of natural philosophy, chemistry, and the occult arts. Prominent alchemists and masters subsequently convened for a meeting that lasted seven days and seven nights to discuss the matter. By dawn on the eighth day, the assembly had reached only one conclusion: Mr. Rosagis might have encountered an unknown realm beyond the limits of mortal existence.
-",R0001_Content_JP
+","氏名： クロモス・ロサキウス（Kuromus Raskius）
+身分： 高名な自然哲学および神秘学の学者
+出典： 『ミサタリ・デイリー』（The Misatari Daily）
+
+報道記録：
+10月12日
+クロモス・ロサキウス氏が「自然哲学・化学技術学術院」を正式に創設し、後世の研究者たちが研鑽を積めるよう、自身の生涯にわたる研究成果を公開した。同氏は数学的法則、精密な化学工芸、そして神秘学を融合させた新たな学問体系「精密錬金術」を提唱している。ロサキウス氏は、学術的な探求は既存の境界に縛られるべきではなく、あらゆる知識の探求は宇宙の万物が抱く神秘を解き明かすためにあると主張しており、この理念こそが学術院設立の礎となっている。一部の学者の間では、この学術院の設立が錬金術界における各派閥の長きにわたる対立を解消する契機になるのではないかと期待されている。
+
+10月14日
+公の場から姿を消して3か月が経っていたクロモス・ロサキウス氏が、とある私邸にて深い昏睡状態に陥っているところを弟子たちによって発見された。報道によれば、その遺体ならぬ身体には外傷や衰弱・腐敗の兆候は見られないという。邸宅内には純金で作られた特殊な調度品や機械器具が大量に設えられており、黄金はまるでそこらに転がる石ころのようにありふれていたと伝えられている。この異常な光景から、同氏の研究成果は従来の物質変換技術の領域をすでに超越していたのではないかとの憶測を呼んでいる。しかしながら、昏睡に陥った原因は現在に至るまで依然として解明されていない。
+
+10月21日
+クロモス・ロサキウス氏の不可解な異変は、自然哲学、化学、神秘学の各界に大きな衝撃と関心をもたらした。錬金術界の著名な学者や大家たちが直ちに会合を招集し、七日七晩にわたって激しい議論を交わした。そして八日目の夜明け、出席者たちが導き出した結論はただ一つであった——「ロサキウス氏は、定命の者の限界を超えた未知なる領域へ足を踏み入れてしまった可能性がある」というものであった。"
 R0002,R0002,任務紙條,1,FALSE,4,Left,1,任務指令紀錄,Operational Directive Record,任務のメモ,"授權機關： 析理之鴉最高議會
 發布機關： 析理之鴉中央執行指令部
 日期： 1768年4月11日
@@ -82,14 +105,34 @@ Injunction Against Null Retrieval: The subject is strictly forbidden to return b
 Protocol of Extraction: Upon confirming acquisition of the target, the subject must silently and continuously recite “RATIO CORVUS” within their mind. The resulting resonance will trigger the organization’s consciousness extraction procedure.
 
  3. FINAL ADMONITION
-Remember: Thy Brain is the absolute Property of the Council. Do not suffer it to rot within the Mind.",R0002_Content_JP
+Remember: Thy Brain is the absolute Property of the Council. Do not suffer it to rot within the Mind.","承認機関： ラティオ・コルヴス最高評議会
+発令機関： ラティオ・コルヴス中央執行指令部
+日付： 1768年4月11日
+件名： 記憶深潜に関する作戦指令
+
+1. 任務の目的および配置
+受命者の過去の記憶はすべて消去済みである。本文書のみが、受命者に許された現世における唯一の記憶の残滓である。
+
+受命者は、深い昏睡状態にある錬金術士クロモス・ロサキウスの意識へと潜入し、その精神深くに秘匿された、定命の者の理解の限界を超える錬金術の秘奥を回収せよ。
+
+2. 強制禁令
+記憶想起の禁止： かつての自己の同一性を回復しようとしてはならない。いかなる想起の試みも、自身の意識と潜入先の意識層との間に反発を引き起こし、結果として即座に脳機能を消滅させることとなる。
+
+無収撤退の禁止： 指定目標を確保する以前の帰還は固く禁ずる。
+
+意識回収手順： 目標の確保を確認したのち、心の中で声を出さず、絶え間なく「ラティオ・コルヴス」と唱え続けよ。それによって生じる共鳴が、組織の意識回収手順を始動させる。
+
+3. 最終警告
+銘記せよ。汝の脳は評議会の絶対的財産である。意識の深淵にてそれを朽ち果てさせるな。"
 R0003,R0003,物質研究報告,1,FALSE,4,Right,1,物質研究紀錄,Material Research Record,物質研究レポート,"研究主題： 軌跡與翡流金（由研究人員命名）
 研究人員： 庫洛莫斯・洛薩基斯
+
 軌跡
 研究者認為，軌跡自萬物創造之初便已存在。這或許能解釋，為何人們在尚未完全理解宇宙之前，便已能察覺某些「刻意的設計」與「不自然的規律」。
 所有能透過五官感知的事物，皆由軌跡構成。
 軌跡具有唯一性與可重構性。
 這項發現引出了一種可能：倘若萬物皆由可重構的軌跡構成，人們是否便能重構萬物，甚至創造新的生命？
+
 翡流金
 研究者運用軌跡的可重構性，創造出一種特殊金屬，並將其命名為「翡流金」。
 翡流金的本質融合了黃金的純粹性與作為智慧之源的象徵意涵，同時具有水銀作為流動介質、連結身體與心智的象徵性質。
@@ -98,17 +141,40 @@ R0003,R0003,物質研究報告,1,FALSE,4,Right,1,物質研究紀錄,Material Res
 其儲存容量具有明確上限。
 ","Research Subject: Traces and Verdant Aurum (designated by the researcher)
 Researcher: Kuromos Rosagis
+
 Traces
 The researcher believes that Traces have existed since the beginning of creation. This may explain why certain “deliberate designs” and “unnatural patterns” could be perceived before the universe was fully understood.
 Everything perceptible through the five senses is composed of Traces.
 Traces possess two fundamental properties: uniqueness and reconstructibility.
 This discovery raises a possibility: if all things are composed of reconstructible Traces, could everything be reconstructed—or even new life created?
+
 Verdant Aurum
 By applying the reconstructive properties of Traces, the researcher created an unusual metal and named it “Verdant Aurum.”
 Its essence combines the purity of gold, symbolizing the source of wisdom, with the symbolism of mercury as a flowing medium between body and mind.
 It is emerald green like a spring bud, capable of flowing like a mountain stream, yet also solidifying into a deep, lustrous gem.
 Verdant Aurum can store the forms of Traces, allowing the researcher to preserve those that have been extracted.
-Its storage capacity is finite and subject to a definite limit.",R0003_Content_JP
+Its storage capacity is finite and subject to a definite limit.","研究題目： 軌跡と翠流金（研究者による命名）
+研究者： クロモス・ロサキウス
+
+軌跡
+研究者は、軌跡は天地創造の初めよりすでに存在していたと考えている。これは、人類が宇宙を完全に理解する以前から、なぜ特定の「意図的な設計」や「不自然な規則性」に気づくことができたのかを説明し得るものである。
+
+五感によって知覚し得るすべての事物は、軌跡によって構成されている。
+
+軌跡には唯一性と再構成可能性という二つの根本的特性が備わっている。
+
+この発見は一つの可能性を提示した。すなわち、万物が再構成可能な軌跡によって構成されているならば、人類は万物を再構成し、さらには新たな生命をも創造し得るのではないか？
+
+翠流金
+研究者は軌跡の再構成可能性を応用し、特殊な金属を創り出し、これを「翠流金（Verdant Aurum）」と名づけた。
+
+翠流金の本質は、知恵の源泉を象徴する黄金の純粋性と、肉体と精神を繋ぐ流動の媒体としての水銀の象徴性を併せ持つ点にある。
+
+春の若芽を思わせるエメラルドグリーンを帯び、山あいの清流のように流動することもあれば、深遠で艶やかな光沢を放つ宝石へと凝固させることも可能である。
+
+翠流金は軌跡の形態を保持する能力を備えており、抽出した軌跡をそのまま保存することができる。
+
+ただし、その保存容量には明確な上限が存在する。"
 R0004,R0004,玻片生產說明書,1,FALSE,5,Left,1,玻片生產說明紀錄,Slide Production Record,スライド製造説明書,"研究主題： 玻片
 研究人員： 庫洛莫斯・洛薩基斯
 
@@ -125,7 +191,14 @@ Following the emergence of Verdant Aurum and Rubrith, the researcher began devel
 
 To distinguish the reconstruction of a single Trace from the fusion of multiple Traces, a more advanced form of the Slide was developed, known as the “Fusion Glass Plate.” This variant follows the same underlying principles but features a far more elaborate and ornate appearance, while also enabling more complex Trace fusion procedures.
 
-For the sake of an alchemist’s dignity, the researcher refuses to add more pockets to his coat merely to accommodate his equipment. Nevertheless, the practical need for additional storage space to carry multiple implements was among the reasons behind the creation of the “Book of Oneness.” Though born of a humble necessity, this implement bears an extravagant name, reflecting the researcher’s distinctive aesthetic sensibilities.",R0004_Content_JP
+For the sake of an alchemist’s dignity, the researcher refuses to add more pockets to his coat merely to accommodate his equipment. Nevertheless, the practical need for additional storage space to carry multiple implements was among the reasons behind the creation of the “Book of Oneness.” Though born of a humble necessity, this implement bears an extravagant name, reflecting the researcher’s distinctive aesthetic sensibilities.","研究題目： スライド
+研究者： クロモス・ロサキウス
+
+翠流金と絳（ルブリス）の発見を経て、研究者は軌跡の保存、携行、および再構成に関するより高度な手法の模索に着手した。その成果として生み出された器具が「スライド」であり、軌跡データの保存と移送に実用的な解決策をもたらした。
+
+単一の軌跡の再構成と複数の軌跡の融合とを明確に区別するため、スライドはさらに上位の形態へと発展を遂げ、それは「融合スライド」と名づけられた。この発展型は同一の基本原理を踏襲しつつも、より精緻で華美な外観を備えており、より複雑な軌跡の融合プロセスの実行を可能にしている。
+
+錬金術士としての品位を重んじる研究者は、器具を持ち歩くためだけに上着のポケットを増やすことを良しとしなかった。しかしながら、複数の器具を収めるための収納スペースを確保するという現実的な要求こそが、「全一の書」を生み出す契機の一つとなった。この器具は実利的な必要性から生じたものであるにもかかわらず、その仰々しい名称には、研究者特有の美意識が色濃く反映されている。"
 R1001,R1001,隕石墜落新聞,1,FALSE,5,Right,1,隕石墜落紀錄報告,Meteorite Fall Report,隕石落下ニュース,"日期： 1825年4月3日
 地點： 米薩塔里大陸法洛里基基地區周邊森林
 
@@ -139,43 +212,65 @@ A meteorite was reported to have fallen in the forests surrounding the Farroriki
 
 The esteemed scholar and benefactor of the Misatari Repository of Unexplainable Objects, Mr. Kuromus Raskius, believes that this uninvited visitor from beyond the stars will serve as a new catalyst for the advancement of alchemical studies, illuminating a path toward realms of knowledge never before explored.
 
-”This will be the flame we have long awaited.”",R1001_Content_JP
-S1005,S1005,酒的產地地圖,1,FALSE,6,Left,1,酒的產地地圖,Wine Origin Map,酒の産地図,目的：尋找一種製造永恆之火的催化劑。,Purpose: Seeking a catalyst for the Eternal Fame.,S1005_Content_JP
+”This will be the flame we have long awaited.”","日付： 1825年4月3日
+場所： ミサタリ大陸ファロリキ基地周辺の森林
+
+ミサタリ大陸ファロリキ基地周辺の森林に、隕石が落下したと報じられた。この天体の起源は依然として特定されていない。落下に伴い発生した火災はその日の夜のうちに鎮火され、回収された落下物はミサタリ不可解物品収蔵庫へと送られ、その保管下に置かれた。
+
+ミサタリ不可解物品収蔵庫の著名な学者であり後援者でもあるクロモス・ロサキウス氏は、星々の彼方から訪れたこの予期せぬ来訪者が、錬金術研究のさらなる発展を促す新たな触媒となり、かつて誰も足を踏み入れたことのない未知なる知の領域への道を照らし出すだろうと考えている。
+
+「これこそ、我らが待ち望んでいた火種となるだろう」"
+S1005,S1005,酒的產地地圖,1,FALSE,6,Left,1,酒的產地地圖,Wine Origin Map,酒の産地図,目的：尋找一種製造永恆之火的催化劑。,Purpose: Seeking a catalyst for the Eternal Fame.,「永遠の炎」を生み出す触媒の探求。
 R1008,R1008,赤焰葡萄酒,1,FALSE,6,Left,2,赤焰葡萄酒,Redflame Wine,赤焰ワイン,"對象：赤焰葡萄酒
 產地：赤焰高原
 外型：赤紅如血
 結果：燃燒後劇烈爆炸","Subject: Redflame Wine.
 Origins: Red Flame Highland.
 Appearance: As red as blood.
-Result: Violent explosion upon ignition.",R1008_Content_JP
+Result: Violent explosion upon ignition.","対象： 赤炎ワイン（レッドフレイム・ワイン）
+原産地： 赤炎高原
+外見： 血のように深き赤
+結果： 着火後に激しい爆発を引き起こす"
 R1002,R1002,真陽酒,1,FALSE,6,Right,1,真陽酒,Truesun Wine,真陽ワイン,"對象：真陽酒
 產地：冰陽山丘
 外型：透明但帶有炫彩光澤
 結果：無煙無灰，穩定循環","Subject: Truesun Wine.
 Origins: Ice Sun Hill.
 Appearance: Transparent but with colorful luster.
-Result: Smoke-free and ash-free, stable circulation.",R1002_Content_JP
+Result: Smoke-free and ash-free, stable circulation.","対象： 真陽酒（トゥルーサン・ワイン）
+原産地： 氷陽丘陵（アイスサン・ヒル）
+外見： 透明にして虹色の輝きを放つ
+結果： 煙も灰も生じず、安定して循環する"
 R1005,R1005,銀月蜜酒,1,FALSE,6,Right,2,銀月蜜酒,Silvemoon Mead,銀月ミード,"對象：銀月蜜酒
 產地：銀月森林
 外型：蜂蜜般色澤
 結果：穩定，但熱能不足","Subject: Silvemoon Mead.
 Origins: Silver Moon Forest.
 Appearance: Honey-like color.
-Result: Stable, but lacks sufficient thermal energy.",R1005_Content_JP
+Result: Stable, but lacks sufficient thermal energy.","対象： 銀月蜂蜜酒（シルバームーン・ミード）
+原産地： 銀月の森
+外見： 蜂蜜のような色合い
+結果： 安定しているが、熱エネルギーが不足している"
 R1007,R1007,晨星烈酒,1,FALSE,6,Right,3,晨星烈酒,Morningstar Spirits,晨星スピリッツ,"對象：晨星烈酒
 產地：晨星山谷
 外型：透明無色
 結果：藍色火焰轉瞬即逝","Subject: Morningstar Spirits.
 Origins: Morning Star Valley.
 Appearance: Transparent and colorless.
-Result: Blue flame fleeting.",R1007_Content_JP
+Result: Blue flame fleeting.","対象： 明けの明星のスピリッツ（モーニングスター・スピリッツ）
+原産地： 明けの明星の谷（モーニングスター・ヴァレー）
+外見： 無色透明
+結果： 青い炎は一瞬にして消え去る"
 R1006,R1006,雷光啤酒,1,FALSE,6,Right,4,雷光啤酒,Thunderlight Beer,雷光ビール,"對象：雷光啤酒
 產地：雷光山脈
 外型：淡黃色
 結果：火焰間歇性中斷","Subject: Thunderlight Beer.
 Origins: Thunder Light Mountain.
 Appearance: Light yellow.
-Result: The flame goes out repeatedly.",R1006_Content_JP
+Result: The flame goes out repeatedly.","対象： 雷光ビール（サンダーライト・ビール）
+原産地： 雷光山脈（サンダーライト・マウンテン）
+外見： 淡黄色
+結果： 炎が断続的に途切れる"
 R1003,R1003,蒸氣火車傳單,1,FALSE,7,Left,1,沃姆煤炭紀錄,Worm's Coal Record,蒸気機関車のチラシ,"對象： 沃姆煤炭
 地位： 知名煤炭生產商
 已知用途： 蒸汽機車燃料、家庭供暖
@@ -184,7 +279,11 @@ R1003,R1003,蒸氣火車傳單,1,FALSE,7,Left,1,沃姆煤炭紀錄,Worm's Coal R
 Status: Prominent Coal Producer
 Known Uses: Steam locomotive fuel, domestic heating Record
 
-The flyer proclaims that Worm's Coal has become a source of power for steam locomotives. From this claim, it may be inferred that its coal possesses a remarkably high degree of purity. If used as metallurgical fuel, it would presumably also provide steady and efficient heat.",R1003_Content_JP
+The flyer proclaims that Worm's Coal has become a source of power for steam locomotives. From this claim, it may be inferred that its coal possesses a remarkably high degree of purity. If used as metallurgical fuel, it would presumably also provide steady and efficient heat.","対象： ワーム炭（Worm's Coal）
+地位： 高名な石炭生産業者
+既知の用途： 蒸気機関車の燃料、家庭用暖房
+
+チラシには、ワーム炭が蒸気機関車の動力源として採用されたと謳われている。この主張から推測するに、その石炭は極めて高い純度を誇っていると考えられる。冶金用の燃料として用いれば、極めて安定した高効率の熱源となるはずだ。"
 R1004,R1004,鍊金公式圖,1,FALSE,7,Left,2,鍊金公式圖紀錄,Alchemy Formula Record,錬金術公式図,"對象： 太陽符號（☉）
 象徵特性： 光明、純粹、黃金、靈魂、恆久不變
 
@@ -197,7 +296,12 @@ Symbolic Properties: Light, Purity, Gold, Soul, Eternal Stability
 The diagram records the method for producing the Sun Symbol (☉), a symbol of light, purity, gold, and the soul. When used as a base pattern, it is believed to grant matter “Eternal Stability”.
 
 The formula requires a Sun Coin, featuring the Sun in Splendour surrounded by exactly sixteen stars. The coin is made from Alchemical Gold with a purity of 99.9%, obtained through Seven-Stage Refinement.
-",R1004_Content_JP
+","対象： 太陽の記号（☉）
+象徴的特性： 光、純粋、黄金、魂、恒久不変
+
+この図面には、光、純粋、黄金、そして魂を象徴する「太陽の記号（☉）」の錬成法が記録されている。これを基底の紋様として用いることで、物質に「恒久不変」の特性を付与し得ると信じられている。
+
+錬成の処方には、16の星に囲まれた栄光の太陽が中央に刻印された「太陽金貨」が一枚必要となる。この金貨は、七段階の精製法を経て得られた純度99.9%の錬金術の黄金で作られたものでなければならない。"
 R1010,R1010,鎔鑄器提示,1,FALSE,7,Right,1,鎔鑄器提示紀錄,Fusion Hint Record,鋳造器のヒント,"I.III. 拉
 II. 放入驅動用的玻片
 IV. 放入鎔鑄物所需材料
@@ -210,8 +314,14 @@ IV. Insert the materials required for casting.
 V. Push
 VI. Take
 
-Through the eye shaped in Rubrith, one may perceive the true form of all things.",R1010_Content_JP
-R1014,R1014,最終圖形提示,1,FALSE,8,Left,1,最終圖形提示,Final Pattern Hint,最終パターンのヒント,"火焰與觸媒以等價比例，座落於中央並賦予其燃料。
+Through the eye shaped in Rubrith, one may perceive the true form of all things.","I.III. 引く
+II. 鋳造を駆動するスライドを挿入する。
+IV. 鋳造に必要な素材を投入する。
+V. 押す
+VI. 取り出す
+
+ルブリスによって形作られた眼を通して、万物の真の姿を見通すことができる。"
+S1008,S1008,最終圖形提示,1,FALSE,8,Left,1,最終圖形提示,Final Pattern Hint,最終パターンのヒント,"火焰與觸媒以等價比例，座落於中央並賦予其燃料。
 觸媒之母育有四子，燃料南北端不可侵入四子領地。
 
 太陽凝聚成平常一半的大小，於觸媒之母的邊境，
@@ -226,4 +336,11 @@ The Sun, condensed to half its common form,
 stands sentinel at the borders of the Mother’s realm,
 where its edge meets the sharpened point of the fuel.
 Three of the points are veiled in flame,
-while three remain uncovered, laid bare to mortal sight.",R1014_Content_JP
+while three remain uncovered, laid bare to mortal sight.","炎と触媒は等しき比で結び、その中心に座し、燃料を授けよ。
+触媒の母は四つの子を抱く。されど燃料の北と南の尖端、
+その四つの子の域を侵すべからず。
+
+太陽は常の半ばに縮められ、触媒の母の境界にて
+燃料の尖端と交わりし守護者とならん。
+三つの尖端は炎に包まれ、
+残りの三つは覆われず、裸のまま顕わる。"

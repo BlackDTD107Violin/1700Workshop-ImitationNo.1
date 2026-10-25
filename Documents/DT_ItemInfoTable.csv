@@ -6,7 +6,7 @@ E1003,木炭,Charcoal,木炭,常見的燃料，對於助燃相當有幫助,"Comm
 E1004,金幣,Coin,金貨,經數度冶煉而成的金幣，中央刻意鑄造成太陽圖騰，雖做工精細卻無法用於日常交易,"A coin refined multiple times, with a deliberately crafted sun totem in the center. Despite its fine craftsmanship, it cannot be used in daily transactions.",何度も精錬されたコインで、中央に太陽のトーテムが意図的に刻まれている。精巧に作られているが、日常の取引には使えない。
 KEY,,,,,,
 K0001,未知的鑰匙,Unknown Key,未知の鍵,從大小判斷，比起開門，更像是開啟某個盒子鎖孔的鑰匙,"Judging by its size, it seems more like a key for opening a box than for unlocking a door.",大きさから判断すると、扉を開けるというより、何かの箱の鍵穴に使う鍵のようだ。
-K0002,翡流金,Verdant Aurum,ヴァーダント・オーラム,K0002中文內容,K0002_Content_EN,K0002_Content_JP
+K0002,翡流金,Verdant Aurum,ヴァーダント・オーラム,這個如流動的翠綠寶石般的晶體似乎能鑲嵌在哪裡……,"This crystal, like flowing emerald, seems like it could be slotted in somewhere...",流れる翡翠の宝石のようなこの結晶は、どこかにはめ込めそうだ……
 K1001,燭台,Candlestick,燭台,可以手持的燭台，方便照明或點燃其他蠟燭,"A handheld candlestick, convenient for lighting or igniting other candles.",手持ち可能な燭台で、照明や他のろうそくに火をつけるのに便利。
 K1002,灼石,Scorched Stone,焼けた石,外表如燒灼般的奇異石頭，雖溫度極高但勉強可以手持,"An unusual stone with a scorched appearance, extremely hot but barely manageable to hold.",表面が焼けたような奇妙な石で、非常に高温だが、なんとか手で持てる。
 K1003,未知的鑰匙,Unknown Key,未知の鍵,從大小判斷，比起開門，更像是開啟某個盒子鎖孔的鑰匙,"Judging by its size, it seems more like a key for opening a box than for unlocking a door.",大きさから判断すると、扉を開けるというより、何かの箱の鍵穴に使う鍵のようだ。
@@ -15,15 +15,14 @@ K1005,金條,Gold Bar,金塊,從重量上判斷，應該是真的金塊......,"J
 K1006,安剖瓶,Sealed Vial,密封瓶,透明的容器，似乎裝著神祕的暗紅色液體,A transparent container that appears to hold a mysterious dark red liquid.,透明な容器で、神秘的な暗赤色の液体が入っているようだ
 OTHER,,,,,,
 O0001,可疑的書,Suspicious Book,疑わしい本,造型奇特的書，但重量卻與其厚度不相稱，表面還有翠綠的流動物質,"A book with a peculiar design, yet its weight does not match its thickness, and there is a flowing green substance on its surface.",奇妙な形の本だが、その重さは厚さと釣り合っておらず、表面には緑色の流れる物質がある。
-O1001,可疑的書,Suspicious Book,疑わしい本,造型奇特的書，但重量卻與其厚度不相稱，表面還有翠綠的流動物質,"A book with a peculiar design, yet its weight does not match its thickness, and there is a flowing green substance on its surface.",奇妙な形の本だが、その重さは厚さと釣り合っておらず、表面には緑色の流れる物質がある。
 SET,,,,,,
-S1005,酒的產地地圖,S1005_EN,S1005_JP,S1005中文內容,S1005_Content_EN,S1005_Content_JP
+S1005,酒的產地地圖,Wine Origin Map,酒の産地図,標示著酒的產地的地圖，地圖的繪製者為了調查什麼親自去探訪過嗎？,A map marking where the wines originated. Did the cartographer visit each place in person to investigate something?,酒の産地が記された地図。地図の製作者は何を調べるために自ら訪れたのだろうか？
 S9003,計算器提示 - 位移,Calculator Hint - Move,計算機のヒント - 移動,"- 水星符號被翡流金驅動,能產生移形換位的力量","- When stirred by Verdant Aurum, the mark of Mercury unveileth the power of transposition.",- 水星のシンボルは ヴァーダント・オーラム（Verdant Aurum）によって駆動され、物体の位置を入れ替える力を生み出す。
 S9004,計算器提示 - 旋轉,Calculator Hint - Rotate,計算機のヒント - 回転,- 金星昭示著日月輪轉，與翡流金的結合強化了這一點,"- Venus heralds the turning of sun and moon, and through Verdant Aurum, that turning is made evermore.",- 金星は日と月の巡りを象徴しており、ヴァーダント・オーラムとの結合によりその力がさらに強化された。
 S9005,計算器提示 - 展開,Calculator Hint - Expand,計算機のヒント - 展開,- 我總認為木星象徵著環繞中心的複製與擴張，結果也不出所料,- I have long believed Jupiter to embody replication and expansion around a central force — and the results were as expected.,- 私は常に、木星は中心を囲む複製と拡張を象徴していると考えていたが、やはりその通りだった。
 S9006,計算器提示 - 縮放,Calculator Hint - Scale,計算機のヒント - 拡大／縮小,- 誰也沒想到土星環中有環的意象，竟是是縮放自如的密碼,"- The secret of Saturn’s halo, a ring within rings, proved to be a cipher for endless scale.",- 誰も予想していなかったが、土星の輪には「輪」という概念そのものが隠されており、それは自在にスケーリングできるコードだったのだ。
 READ,,,,,,
-R0001,煉金術士檔案,R0001_EN,R0001_JP,"標題：精密煉金之父
+R0001,煉金術士檔案,Alchemist's Dossier,錬金術士のファイル,"標題：精密煉金之父
 內文：知名自然哲學與神祕學學者庫洛莫斯.洛薩基斯先生，正式創建自然哲學與化學技術學院，慷慨地將他在自然哲學領域的成就化為養分滋養後繼者。洛薩基斯先生長年扎根煉金領域，發表過許多令人歎為觀止的研究成果，他宣稱學術無分界，所有的知識都是在解密宇宙萬物，這個新的學院便是建立在這個原則上。
 煉金領域一直以來都分裂成多個派系，各派擁躉紛爭不止，多名學者預測洛薩基斯先生創辦的學校將為這場漫長的戰爭畫上句點，他廣納各個領域的學者，催生出一項全新的概念：精密煉金，在數學法則與化學工藝的精確錨定下，結合神祕學宏大的視界，勢必將煉金領域帶領到全新的高度。
 
@@ -36,7 +35,19 @@ For Generations, the Realm of Alchymy hath been miserably divided into contendin
 
 It is reported by those who entered the Premises that his Abode aboundeth with curious Furnishings and mechanical Instruments forged entirely of Solid Gold; in his Chambers, Gold appeareth as common and abundant as mere Pebble-stones. The learned World now asketh: Hath the Research of Mr. Raskius truly passed beyond the Transmutation of Lead into Gold? And what strange Force hath rendered him thus motionless? The Alchemical Faculties are presently cast into a Shadow of profound Suspicion and Bewilderment.        MISATARI, October 21. — The inexplicable stupor of Mr. Kuromus Raskius hath sent a profound Shock throughout the ranks of Natural Philosophy, Chymistry, and the Occult Sciences. In consequence, the most exalted Minds and Luminaries of the Alchemical Arts assembled in solemn Council, engaging in a debate that endured for seven Days and Nights.
 
-Upon the Dawn of the eighth Day, the august Body reached but a single Conclusion: that Mr. Kuromus Raskius hath touched upon an unknown Realm—one that transcendeth the very Limitations of his mortal Existence.",R0001_Content_JP
+Upon the Dawn of the eighth Day, the august Body reached but a single Conclusion: that Mr. Kuromus Raskius hath touched upon an unknown Realm—one that transcendeth the very Limitations of his mortal Existence.","タイトル：精密錬金術の父
+
+ミサタリ、10月12日――名高き自然哲学および神秘学の碩学、クロムス・ラスキウス氏が、このたび「自然哲学・化学技術アカデミー」を正式に創設した。ラスキウス氏は類まれなる寛大さをもって、自らが自然哲学の領域で培った功績を、後進を育むための糧として惜しみなく捧げた。長年にわたり錬金術の深奥に身を置き、学会を震撼させる研究成果を数多く世に送り出してきた同氏は、「学問に境界はなく、いかなる知もまた宇宙の万物を解明するためのものにすぎない」と断言している。この新たな学舎は、まさにその崇高なる理念のもとに築かれたものである。
+
+長きにわたり、錬金術の世界は複数の派閥へと分裂し、それぞれの信奉者たちによる果てなき抗争が繰り広げられてきた。多くの学者は、ラスキウス氏の創設した学院こそが、この泥沼の戦いに終止符を打つものと予測している。氏はあらゆる領域の知識人を広く招き入れ、今までにない全く新たな概念を生み出した。それこそが「精密錬金術」である。数学的法則と化学工芸の厳密な定義に基づきつつ、神秘学の壮大な視座をも融合させたこの学問は、錬金術の領域をかつてない高みへと引き上げるに違いない。
+
+ミサタリ、10月14日――公の場から姿を消して3ヶ月、クロムス・ラスキウス氏は自らの邸宅の一つで、深い昏睡状態に陥っているところを弟子たちによって発見された。驚くべきことに、その肉体にはいかなる衰弱や損傷も見られず、まるで昏睡に陥ったその一瞬のまま時が凍りついてしまったかのようであった。
+
+邸内に足を踏み入れた者によれば、その住居には純金で作られた数々の奇妙な家具やからくり仕掛けの器具が溢れており、黄金がまるでそこらの小石のようにありふれていたという。学術界は今、深い疑念と困惑に包まれている――ラスキウス氏の錬金研究は、すでに「卑金属を黄金に変える」領域を超越してしまったのか？ そして彼をこのような昏睡へと追いやった謎の力とは何なのか？
+
+ミサタリ、10月21日――クロムス・ラスキウス氏の不可解な昏睡は、自然哲学、化学、神秘学の各界に計り知れない衝撃をもたらした。事態を受け、自然哲学と錬金術の最高峰たる碩学たちが一堂に会し、七日七晩に及ぶ議論を重ねた。
+
+八日目の夜明け、この重鎮たちが出した結論は、ただ一つであった。――クロムス・ラスキウスは、一介の定命の者が持ちうる生命の限界を遥かに超越した、「未知の領域」に触れてしまったのだ、と。"
 R0002,任務紙條,Mission Note,任務のメモ,"【高度機密​​】
 
 析理之鴉 — 中央執行指令
@@ -64,8 +75,28 @@ Mission: Enter the alchemist’s memories, uncover their secrets, and report the
 経歴：多くの金製品を所有していたにもかかわらず、表に出ることなく研究に没頭していた。その探求の対象は、黄金をも超える価値を持つものだと推測されている。
 //
 任務：錬金術師の記憶領域に潜入し、その秘密を解明して研究成果を報告せよ。"
-R0003,物質研究報告,R0003_EN,R0003_JP,我相信在我找到它們之前，它們在萬物創造之初便已然存在。難怪在我們參透整個宇宙前，便已能領略到那些「刻意的設計」「不自然的規律」。 我稱呼它們為「軌跡」，所有我們能用五官感受到的事物皆由軌跡構成，它們具有唯一性與可重構性，我無法用言語表達我的震驚與激動，這是否代表：我們能夠重構萬物，創造新生？ 我意外用軌跡的重構性創造一種特殊的金屬，本質是黃金的純粹與智慧之源，同時擁有水銀在身心間流動的介質象徵，它翠綠如春芽，能溪水般流動，也能固化成一顆深邃的寶石，我稱之為「翡流金」，更重要的是，它能儲存軌跡的形狀，讓我能保存我提取的所有軌跡，當然，是有上限的。,R0003_Content_EN,R0003_Content_JP
-R0004,玻片生產說明書,R0004_EN,R0004_JP,在翡流金與絳的出現後，我決定以一種更成熟的姿態儲存與重構軌跡，於是 「玻片」出現了，這是一個粗糙易讀的稱呼，畢竟它本身已經是一個足夠精湛的工藝，它能讓我帶著軌跡到處行動，還能儲存被重構的軌跡。 為了區分除了重構之外，更高級的行為—融合複數軌跡，玻片擁有了另一種姿態，同樣的邏輯，更爲華麗的外觀，粗糙易讀的名字—融合玻片。 為了作為煉金術士的體面，我不想增加外套的口袋，不想承認這是『全一之書』的誕生動機，不過簡陋的動機，華麗的名稱，這很符合我的美學。它能攜帶複數玻片與融合玻片，我想它會成為我長期的夥伴。,R0004_Content_EN,R0004_Content_JP
+R0003,物質研究報告,Substance Research Report,物質研究レポート,我相信在我找到它們之前，它們在萬物創造之初便已然存在。難怪在我們參透整個宇宙前，便已能領略到那些「刻意的設計」「不自然的規律」。 我稱呼它們為「軌跡」，所有我們能用五官感受到的事物皆由軌跡構成，它們具有唯一性與可重構性，我無法用言語表達我的震驚與激動，這是否代表：我們能夠重構萬物，創造新生？ 我意外用軌跡的重構性創造一種特殊的金屬，本質是黃金的純粹與智慧之源，同時擁有水銀在身心間流動的介質象徵，它翠綠如春芽，能溪水般流動，也能固化成一顆深邃的寶石，我稱之為「翡流金」，更重要的是，它能儲存軌跡的形狀，讓我能保存我提取的所有軌跡，當然，是有上限的。,"I firmly believe that long before I ever uncovered them, they had already existed since the dawn of Creation. Little wonder that even before unraveling the cosmos in its entirety, mankind has ever been able to discern those ""deliberate designs"" and ""unnatural regularities.""
+
+I have come to call them ""Traces."" Everything our five senses may perceive is woven from these Traces. They are singular, yet inherently reconfigurable. Words utterly fail to convey my shock and exhilaration—does this not signify that we hold the power to reconfigure all creation and bring forth new life?
+
+Through this very reconfigurability of Traces, I serendipitously forged an extraordinary metal. At its core lies the purity and fountainhead of wisdom that is gold, yet it equally embodies mercury as the sacred medium flowing between mind and body. It is as verdant as the tender shoots of spring; it flows as gracefully as a stream, yet can instantly crystallize into a deep, lustrous gemstone. I have named it ""Verdant Aurum.""
+
+More crucial still, it possesses the virtue of retaining the geometry of Traces, allowing me to preserve all that I extract—though, naturally, there is a limit.","私がそれらを見出す遥か以前、万物が創造された黎明より、それらはすでに存在していたのだと確信している。全宇宙の理を解き明かす前であっても、我々がかの「意図された設計」や「不自然な法則」を感じ取ることができたのも、何ら不思議ではない。
+
+私はそれらを「軌跡」と名付けた。我々の五感が捉えうるすべての事象は、この軌跡によって構成されている。それらは唯一無二でありながら、同時に再構成が可能であるのだ。この驚きと昂揚は、到底言葉では言い尽くせない。――これは果たして、我々が万物を編み直し、新たなる生命をも創り出せることを意味しているのではないか？
+
+私はこの軌跡の再構成性を利用し、奇跡的に一つの特異な金属を生み出すに至った。その本質は黄金の純粋さと叡智の源泉でありながら、同時に心身を行き交う媒体たる水銀の象徴性を帯びている。春の若芽のように鮮やかなエメラルドを湛え、小川のように流動することも、深遠なる宝石として凝固することもできる。私はこれを「ヴァーダント・オーラム」と名付けた。
+
+そして何より重要なのは、これが軌跡の形状を記憶し、私が抽出したあらゆる軌跡を保存できるという点だ。――むろん、それにも限界はあるのだが。"
+R0004,玻片生產說明書,Slide Production Manual,スライド製造説明書,在翡流金與絳的出現後，我決定以一種更成熟的姿態儲存與重構軌跡，於是 「玻片」出現了，這是一個粗糙易讀的稱呼，畢竟它本身已經是一個足夠精湛的工藝，它能讓我帶著軌跡到處行動，還能儲存被重構的軌跡。 為了區分除了重構之外，更高級的行為—融合複數軌跡，玻片擁有了另一種姿態，同樣的邏輯，更爲華麗的外觀，粗糙易讀的名字—融合玻片。 為了作為煉金術士的體面，我不想增加外套的口袋，不想承認這是『全一之書』的誕生動機，不過簡陋的動機，華麗的名稱，這很符合我的美學。它能攜帶複數玻片與融合玻片，我想它會成為我長期的夥伴。,"Following the advent of Verdant Aurum and Rubrith, I resolved to store and reconfigure Traces in a far more refined fashion. Thus, the ""Slide"" was born. It is a crude and utilitarian moniker, yet the object itself is a marvel of exquisite craftsmanship. It permits me to carry Traces wherever I venture, and likewise preserves those that have undergone reconfiguration.
+
+To distinguish reconfiguration from an even higher art—the fusion of multiple Traces—the Slide assumed an alternative form. Guided by identical principles yet adorned with a far more magnificent countenance, it bears an equally crude and plain name: the ""Fusion Slide.""
+
+For the sake of alchemical dignity, I refused to add extra pockets to my overcoat. I loathe to admit that this was the very impetus behind the creation of ""The Book of the All-in-One."" Still, a humble motive cloaked in an opulent title suits my aesthetic sensibilities rather well. It is capable of housing multiple Slides and Fusion Slides alike. I suspect it shall remain my steadfast companion for many years to come.","ヴァーダント・オーラム、そして「ルブリス」の誕生を経て、私はより洗練された形で軌跡を保存し、再構成することを決意した。そうして生まれたのが「スライド」である。少々素っ気なく実用本位な名だが、その実体は極めて精巧な工芸品に他ならない。これによって私は軌跡を携えて自在に行動できるようになり、再構成された軌跡をそのまま封じ込めることも可能となった。
+
+単なる再構成にとどまらない、より高度な術式――「複数の軌跡の融合」を区別するため、スライドにはもう一つの姿が与えられた。理屈は同じだが、より絢爛たる装飾を纏い、そして相変わらず素っ気ない名を持つもの――「融合スライド」である。
+
+錬金術士としての矜持ゆえ、私はコートにみすぼらしくポケットを増やしたくはなかった。これが『全一の書』を生み出した真の動機だとは口が裂けても認めたくないが、卑近な動機に壮大な名を冠するあたり、実に私の美学に叶っている。これ一冊で複数のスライドや融合スライドを収めることができるのだ。願わくば、これが私の長きにわたる良き相棒とならんことを。"
 R1001,隕石墜落新聞,Meteorite Fall News,隕石落下ニュース,"""如果有名為火焰的神明，祂的真身應該就是那個模樣。""
 西元1825年4月3日，一顆隕石墜落在米薩他利洲的法爾歐里基地區森林，造成三千萬棵樹木焚毀，所幸隕石墜落時已在空中爆炸，只餘下碎塊墜落地面，且森林人煙稀少，無人受傷。但森林大火持續燃燒三天，造成三分之二的森林面積就此化為荒土。隕石的來歷不明，在撲滅火勢的當天夜裡由無法解釋物質收容收藏館 米薩他利保管。
 
@@ -246,14 +277,10 @@ while three remain uncovered, laid bare to mortal sight.","炎と触媒は等し
 燃料の尖端と交わりし守護者とならん。
 三つの尖端は炎に包まれ、
 残りの三つは覆われず、裸のまま顕わる。"
-R1015,隕石提取紀錄,R1015_EN,R1015_JP,R1015中文內容,R1015_Content_EN,R1015_Content_JP
-R1016,酒瓶提取紀錄,R1016_EN,R1016_JP,R1016中文內容,R1016_Content_EN,R1016_Content_JP
-R1017,木炭提取紀錄,R1017_EN,R1017_JP,R1017中文內容,R1017_Content_EN,R1017_Content_JP
-R1018,金幣提取紀錄,R1018_EN,R1018_JP,R1018中文內容,R1018_Content_EN,R1018_Content_JP
 GLASS,,,,,,
-G0001,神秘的玻片,G0001_EN,G0001_JP,G0001中文內容,G0001_Content_EN,G0001_Content_JP
-G0002,神秘的玻片,G0002_EN,G0002_JP,G0002中文內容,G0002_Content_EN,G0002_Content_JP
+G0001,神秘的玻片,Mysterious Slide,謎めいたスライド,能乘載軌跡的玻片，這個圖案我似乎在哪裡見過……,A glass slide capable of holding traces. This pattern seems familiar... I must have seen it somewhere before.,軌跡を残せるガラススライド。この紋様、どこかで見たことがあるような……
+G0002,神秘的玻片,Mysterious Slide,謎めいたスライド,能乘載軌跡的玻片，這個圖案我似乎在哪裡見過……,A glass slide capable of holding traces. This pattern seems familiar... I must have seen it somewhere before.,軌跡を残せるガラススライド。この紋様、どこかで見たことがあるような……
 G_Base,玻片,Glass Slide,ガラスのスライド,記錄著軌跡的玻片，軌跡的流動僅憑肉眼即可見,"A glass plate recording a trajectory, the flow of which is visible to the naked eye.",軌跡を記録したガラス片で、その流れは肉眼で確認できる。
-G_Unite1,稍加點綴的玻片,Decorated Glass Slide,少し装飾されたガラスのスライド,稍微華麗的玻片，頂部有一顆紋路流動的綠寶石，但是好像有些脆弱,"A slightly ornate glass plate, with a single flowing-patterned green gem on top, though it seems somewhat fragile.",少し華やかなガラス片で、頂部には1つの流動する模様を持つ緑の宝石があるが、やや脆そうだ。
-G_Unite2,稍加點綴的玻片,Decorated Glass Slide,少し装飾されたガラスのスライド,更加華麗的玻片，頂部有兩顆紋路流動的綠寶石，似乎已很脆弱,"A more ornate glass plate, with two flowing-patterned green gems on top, which seem quite fragile.",より華やかなガラス片で、頂部には2つの流動する模様の緑の宝石があり、非常に脆そうだ。
-G_Unite3,稍加點綴的玻片,Decorated Glass Slide,少し装飾されたガラスのスライド,最為華麗的玻片，頂部有三顆紋路流動的綠寶石，應該難以再承受下一次的合成,"The most ornate glass plate, with three flowing-patterned green gems on top. It likely cannot withstand another synthesis.",最も華やかなガラス片で、頂部には3つの流動する模様の緑の宝石があり、次の合成には耐えられないだろう。
+G_Unite1,融合玻片,Fusion Slide,融合スライド,稍微華麗的玻片，頂部有一顆紋路流動的綠寶石，但是好像有些脆弱,"A slightly ornate glass plate, with a single flowing-patterned green gem on top, though it seems somewhat fragile.",少し華やかなガラス片で、頂部には1つの流動する模様を持つ緑の宝石があるが、やや脆そうだ。
+G_Unite2,融合玻片,Fusion Slide,融合スライド,更加華麗的玻片，頂部有兩顆紋路流動的綠寶石，似乎已很脆弱,"A more ornate glass plate, with two flowing-patterned green gems on top, which seem quite fragile.",より華やかなガラス片で、頂部には2つの流動する模様の緑の宝石があり、非常に脆そうだ。
+G_Unite3,融合玻片,Fusion Slide,融合スライド,最為華麗的玻片，頂部有三顆紋路流動的綠寶石，應該難以再承受下一次的合成,"The most ornate glass plate, with three flowing-patterned green gems on top. It likely cannot withstand another synthesis.",最も華やかなガラス片で、頂部には3つの流動する模様の緑の宝石があり、次の合成には耐えられないだろう。
